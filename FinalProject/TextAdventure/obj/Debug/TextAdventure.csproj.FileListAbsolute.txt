@@ -1,0 +1,12 @@
+d:\lewiske\my documents\visual studio 2013\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+d:\lewiske\my documents\visual studio 2013\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+d:\lewiske\my documents\visual studio 2013\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+d:\lewiske\my documents\visual studio 2013\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+d:\lewiske\my documents\visual studio 2013\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+d:\lewiske\my documents\visual studio 2013\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+E:\CS155_Class\TextAdventure\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+E:\CS155_Class\TextAdventure\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+E:\CS155_Class\TextAdventure\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+E:\CS155_Class\TextAdventure\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+E:\CS155_Class\TextAdventure\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+E:\CS155_Class\TextAdventure\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
